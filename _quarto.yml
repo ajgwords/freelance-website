@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
+      - spacelab
       - cosmo
-      - brand
     css: styles.css
     toc: true
