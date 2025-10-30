@@ -5,6 +5,11 @@ project:
 website:
   title: "My test website"
   navbar:
+    title: false
+    #logo:
+    logo-alt: "My logo"
+    search: true
+    background: primary
     left:
       - href: index.qmd
         text: Home
