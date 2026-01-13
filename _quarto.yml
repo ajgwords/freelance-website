@@ -3,22 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "My test website"
+  title: "My website"
+  cookie-consent: false
+  search: 
+    location: navbar
+    type: textbox
   navbar:
     title: false
-    #logo:
+    logo: "logo.jpg"
     logo-alt: "My logo"
-    search: true
-    background: primary
+    collapse: false
+
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: services.qmd
+        text: Services
+      - href: about.qmd
+        text: About
+
+    right:
+      - icon: linkedin
+        href: https://twitter.com
+      - icon: mastodon
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://code.com
+          - text: Report a Bug
+            href: https://bugs.com
 
 format:
   html:
     theme:
-      - spacelab
-      - cosmo
+      - minty
     css: styles.css
     toc: true
