@@ -24,15 +24,11 @@ website:
 
     right:
       - icon: linkedin
-        href: https://twitter.com
+        href: https://www.linkedin.com/in/ajgwords/
       - icon: mastodon
-        href: https://twitter.com
+        href: https://social.vivaldi.net/@ajggeoger
       - icon: github
-        menu:
-          - text: Source Code
-            href: https://code.com
-          - text: Report a Bug
-            href: https://bugs.com
+        href: https://github.com/ajgwords
 
 format:
   html:

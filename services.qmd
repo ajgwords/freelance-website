@@ -1,11 +1,16 @@
 ---
-title: "AJG Consulting"
+title: "Services"
 ---
 
-This is my test website.
+This is what I do.
 
-* Who am I?
-* Why am I?
+* Specialties: 
+  * remote sensing advocacy, 
+  * spatial strategy, 
+  * GIS/RS technical skills, 
+  * scientific communication, open standards advocacy, technical business development, home energy advocacy, renewables, data science.
+
+
 
 
 <div class="d-grid gap-2">
@@ -14,3 +19,5 @@ This is my test website.
 </div>
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+

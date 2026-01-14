@@ -1,15 +1,21 @@
 ---
-title: "AJG Consulting"
+title: "Alastair Graham"
 ---
 
-This is my test website.
 
-* Who am I?
-* Why am I?
+# Geographer for hire: looking to help the planet
+
+I am a freelance physical geographer with a strong record of delivering practical, high-quality work. My background as an environmental technologist spans a range of applied and academic settings, giving me a broad and adaptable skill set.
+
+I love to learn, and as such I bring experience from both commercial and research environments. My approach is analytical, principled and pragmatic, with a focus on realistic solutions to complex environmental challenges. I am trusted to support and deliver complex projects to a high standard, on time and within budget. I place particular value on clear communication and enjoy explaining technical work to a wide range of audiences. 
+
+In addition to my professional work, I am an active podcaster. I am also a longtime member of the OSGeo:UK committee and am currently in charge of the organisation's newsletter. 
+
+
 
 
 <div class="d-grid gap-2">
-  <button class="btn btn-lg btn-primary" type="button">Block button</button>
+  <button class="btn btn-lg btn-primary" type="button">GeoMob podcast</button>
   <button class="btn btn-lg btn-primary" type="button">Block button</button>
 </div>
 
