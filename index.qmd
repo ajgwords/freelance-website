@@ -6,15 +6,16 @@ title: "Alastair Graham"
 
 I get stuff done.
 
-I am a freelance physical geographer with a strong record of delivering practical, high-quality work. My background as an environmental technologist spans a range of applied and academic settings, giving me a broad and adaptable skill set. This ranges from technical computing, to analytical methods, to fieldwork, to teaching and training, to strategic thinking, and much more.
+I am a __freelance physical geographer__ with a strong record of __delivering practical, high-quality work__. My background as an environmental technologist spans a range of applied and academic settings, giving me a broad and adaptable skill set. This ranges from technical computing, to analytical methods, to fieldwork, to teaching and training, to strategic thinking, and much more.
 
 I love to learn, and as such I bring experience from both commercial and research environments. My approach is analytical, principled and pragmatic, with a focus on realistic solutions to complex environmental challenges. I am trusted to support and deliver complex projects to a high standard, on time and within budget. I place particular value on clear communication and enjoy explaining technical work to a wide range of audiences. 
 
-In addition to my professional work, I am an active podcaster as a co-host on the Geomob podcast (having previously created and hosted the Scene From Above podcast). I am also a longtime member of the OSGeo:UK committee and am currently in charge of the organisation's newsletter. 
+In addition to my professional work, I am an active podcaster as a co-host on the [Geomob podcast](https://thegeomob.com/podcast) (having previously created and hosted the Scene From Above podcast). I am also a longtime member of the [OSGeo:UK committee](https://uk.osgeo.org/) and am currently in charge of the organisation's newsletter. 
 
 # Areas of Expertise and Interest
 
-My career has focused on Earth observation for land applications. As such much of what drives me, and much of my experience, comes from 
-Land cover
-Landscape processes
-Home energy
+My career has focused on Earth observation for land applications. As such much of what drives me, and much of my experience, comes from MORE HERE 
+
+* Land cover
+* Landscape processes
+* Home energy
