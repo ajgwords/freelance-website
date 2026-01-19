@@ -2,21 +2,19 @@
 title: "Alastair Graham"
 ---
 
-
 # Geographer for hire: looking to help the planet
 
-I am a freelance physical geographer with a strong record of delivering practical, high-quality work. My background as an environmental technologist spans a range of applied and academic settings, giving me a broad and adaptable skill set.
+I get stuff done.
+
+I am a freelance physical geographer with a strong record of delivering practical, high-quality work. My background as an environmental technologist spans a range of applied and academic settings, giving me a broad and adaptable skill set. This ranges from technical computing, to analytical methods, to fieldwork, to teaching and training, to strategic thinking, and much more.
 
 I love to learn, and as such I bring experience from both commercial and research environments. My approach is analytical, principled and pragmatic, with a focus on realistic solutions to complex environmental challenges. I am trusted to support and deliver complex projects to a high standard, on time and within budget. I place particular value on clear communication and enjoy explaining technical work to a wide range of audiences. 
 
-In addition to my professional work, I am an active podcaster. I am also a longtime member of the OSGeo:UK committee and am currently in charge of the organisation's newsletter. 
+In addition to my professional work, I am an active podcaster as a co-host on the Geomob podcast (having previously created and hosted the Scene From Above podcast). I am also a longtime member of the OSGeo:UK committee and am currently in charge of the organisation's newsletter. 
 
+# Areas of Expertise and Interest
 
-
-
-<div class="d-grid gap-2">
-  <button class="btn btn-lg btn-primary" type="button">GeoMob podcast</button>
-  <button class="btn btn-lg btn-primary" type="button">Block button</button>
-</div>
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My career has focused on Earth observation for land applications. As such much of what drives me, and much of my experience, comes from 
+Land cover
+Landscape processes
+Home energy

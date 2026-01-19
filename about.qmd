@@ -1,7 +1,17 @@
 ---
-title: "About"
+title: "More"
 ---
 
-I am a physical geographer and an experienced Earth observation analyst.
+# Ethics
+
+I don't work for organisations or projects that are directly linked to the oil & gas or defence sectors. I don't fly on environmental grounds. I try to work with teams and on projects that align with my environmental principles and views around a fair society. This does not limit my ability twork, and directs me towards work designed to make a positive difference.
+
+# Learning
+
+I am happiest in my work when I am learning new things. My core desire in terms of my career is to reach retirement knowing that I have continued to learn throughout. Having an inquisitive mind for topics that interest me makes me a strong researcher. I also understand that whilst needing to work within the parameters of a client's business it is often beneficial to question the _status quo_ and suggest new ways of looking for solutions.   
+
+# Being open
+
+I use open source software almost exclusively on my computers. I preferentially use open data for the majority of my work. If possible, I push for data I generate, or code I write, to be made available under a permissive of copy-left licence. I also prefer to approach project delivery using open and collaborative methods.
 
 

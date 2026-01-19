@@ -1,23 +1,31 @@
 ---
-title: "Services"
+title: "What I do"
 ---
 
-This is what I do.
+This page is a brief introduction to the types of work that I have done, what I like to do and what I am interested in. I am a big believer in allowing people to learn and push themselves, and I think the modern workplace often restricts people to a single specialism when they have so much more to offer. The generalist is often undervalued! 
 
-* Specialties: 
-  * remote sensing advocacy, 
-  * spatial strategy, 
-  * GIS/RS technical skills, 
-  * scientific communication, open standards advocacy, technical business development, home energy advocacy, renewables, data science.
+With that in mind, I often describe myself as an environmental technologist with a career in Earth observation.
 
+# Areas I can help with
 
-
-
-<div class="d-grid gap-2">
-  <button class="btn btn-lg btn-primary" type="button">Block button</button>
-  <button class="btn btn-lg btn-primary" type="button">Block button</button>
-</div>
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+* Research and solutions around spatial and environmental problems
+* Project Delivery with light touch project management
+* Data manmagement
+* Data processing using open source tools
+* Training and Communication such as workshops, podcasts and videos
+* Strategic thinking for business development
 
 
+Basically, if it's interesting and I'm available then I'd love to collaborate with you and your team.
+
+# Something else
+ 
+* remote sensing advocacy, 
+* spatial strategy, 
+* GIS/RS technical skills, 
+* scientific communication, open standards advocacy, technical business development, home energy advocacy, renewables, data science.
+
+# Future idevelopments
+
+drones
+field survey

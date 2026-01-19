@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "My website"
+  title: "Alastair Graham freelance"
   cookie-consent: false
   search: 
     location: navbar
     type: textbox
   navbar:
     title: false
-    logo: "logo.jpg"
+    logo: "logo-work.png"
     logo-alt: "My logo"
     collapse: false
 
@@ -20,7 +20,7 @@ website:
       - href: services.qmd
         text: Services
       - href: about.qmd
-        text: About
+        text: More
 
     right:
       - icon: linkedin
