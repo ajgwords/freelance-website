@@ -9,24 +9,26 @@ With that in mind, I often describe myself as an environmental technologist with
 # Areas I can help with
 
 * Research and solutions around spatial and environmental problems
-* Project Delivery with light touch project management
-* Data manmagement
+* Project delivery and project management
+* Data manmagement and pre-processing of all sorts of data
 * Data processing using open source tools
-* Training and Communication such as workshops, podcasts and videos
+* Training and communication, including workshops, podcasts and videos
 * Strategic thinking for business development
-
 
 Basically, if it's interesting and I'm available then I'd love to collaborate with you and your team.
 
 # Specific skill areas
  
-* remote sensing advocacy, 
-* spatial strategy, 
-* GIS/RS technical skills, 
-* scientific communication, open standards advocacy, technical business development, home energy advocacy, renewables, data science.
+* Remote sensing workflows and processing
+* Workflow architecture design
+* Open source GIS technical skills including spatial data science
+* Spatial strategy design and implementation 
+* Scientific communication
+* Open standards advocacy
+* Home energy advice and advocacy
 
 # Future developments
 
-I am currently interested in returning to undertaking some outdoor work. MORE HERE
-drones
-field survey
+I am currently interested in returning to undertaking some outdoor work. At the start of my career I undertook land cover and vegetetion surveys as well as supporting hydrology fieldwork and would like to return to a bit more outdoor work. As such I am currently developing skills in drone piloting and data processing, and field survey (e.g. UKHabs).
+
+My interests are specifically in plants, vegetation and habitats but I am keen to garner new skills and experience where I can. If you would like an additional reliable person to help with your surveys then do get in touch.

@@ -14,8 +14,11 @@ In addition to my professional work, I am an active podcaster as a co-host on th
 
 # Areas of Expertise and Interest
 
-My career has focused on Earth observation for land applications. As such much of what drives me, and much of my experience, comes from MORE HERE 
+My career has focused on Earth observation for land applications. As such much of what drives me, and much of my experience, comes from wanting to understand landscape level patterns and changes. Additionally, when something interests me I usually try to learn as much as I can about the subject: this has led me to understand quite a bit about home energy options and the technology available to help make your home comfortable.
 
-* Land cover
+A short list of my interests includes:
+
+* Land cover 
 * Landscape processes
 * Home energy
+* Data and exploratory coding
