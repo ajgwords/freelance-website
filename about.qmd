@@ -4,7 +4,12 @@ title: "Additional information"
 
 # Contact
 
-You can contact me using the LinkedIn or Mastodon links in the top right corner of this website. Alternatively you can contact me using the email address "a.graham at ajgconsulting dot co dot uk" where the "at" and "dot" are replaced with the relevant symbols.
+You can contact me using the LinkedIn or Mastodon links in the top right corner of this website. Alternatively you can contact me using:  
+<html>
+  <body>
+     <a href="mailto:a.graham@ajgconsulting.co.uk"> this email address</a>.
+  </body>
+</html>
 
 # Ethics
 
